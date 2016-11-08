@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg_server",
+  "dependencies": {
+    "express": "registry:npm/express#4.14.0+20160925001530"
+  },
+  "globalDependencies": {
+    "fluent-ffmpeg": "registry:dt/fluent-ffmpeg#0.0.0+20160829142114",
+    "node": "registry:env/node#6.0.0+20161105011511",
+    "randomstring": "registry:dt/randomstring#1.1.4+20160509083842"
+  }
+}
