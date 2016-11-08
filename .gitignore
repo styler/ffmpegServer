@@ -2,6 +2,10 @@
 typings
 dist
 
+*/africa
+*.trihard
+.cx
+
 # Logs
 logs
 *.log
